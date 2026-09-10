@@ -2,6 +2,8 @@
 
 My personal academic website, built with Bootstrap 5 and the iPortfolio template.
 
+🔗 **Live site:** [https://nestorgrg.github.io](https://nestorgrg.github.io)
+
 ## Features
 
 - Responsive design with sidebar navigation
@@ -63,7 +65,7 @@ This site is designed to be deployed via GitHub Pages:
 
 1. Push to `NestorGRG/NestorGRG.github.io` repository
 2. Enable GitHub Pages in repository settings
-3. The site will be live at `https://nestorgarcia-romeral.github.io`
+3. The site will be live at `https://nestorgrg.github.io`
 
 ## Credits
 
